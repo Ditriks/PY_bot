@@ -2,7 +2,7 @@
 import telebot, wikipedia, re
 
 
-bot = telebot.TeleBot ('5836730004:AAFnPkKi78JRFxxsiOg3ckI4wJ4OxbeTQFc')
+bot = telebot.TeleBot ('TOKEN')
 
 wikipedia.set_lang("ru")
 
